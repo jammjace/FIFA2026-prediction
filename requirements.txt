@@ -8,3 +8,6 @@ requests
 tqdm
 jupyter
 ipykernel
+sqlalchemy
+psycopg2-binary
+python-dotenv
